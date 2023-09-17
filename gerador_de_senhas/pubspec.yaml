@@ -1,0 +1,9 @@
+name: gerador_de_senhas
+description: Uma ferramenta de geração de senhas aleatórias.
+version: 0.0.1
+
+environment:
+  sdk: ^3.0.7
+
+dev_dependencies:
+  lints: ^2.0.0
